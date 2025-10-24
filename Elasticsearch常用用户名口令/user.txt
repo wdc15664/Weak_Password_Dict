@@ -1,0 +1,11 @@
+elastic
+apm_system
+kibana_system
+logstash_system
+beats_system
+remote_monitoring_user
+admin
+manager
+role1
+root
+both

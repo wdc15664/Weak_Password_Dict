@@ -1,0 +1,16 @@
+sa
+root
+admin
+sysadmin
+test
+administrator
+guest
+sys
+system
+123
+ceshi123
+admin123
+test1
+test2
+test123
+user123

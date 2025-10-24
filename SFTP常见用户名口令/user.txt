@@ -1,0 +1,10 @@
+root
+admin
+user
+admin123
+admin0
+user123
+root123
+root123456
+admin123456
+adminabc123

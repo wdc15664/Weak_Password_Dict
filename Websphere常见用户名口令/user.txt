@@ -1,0 +1,10 @@
+websphere
+admin
+Administrator
+root
+test
+user
+admin123
+root123
+test123
+wasadmin

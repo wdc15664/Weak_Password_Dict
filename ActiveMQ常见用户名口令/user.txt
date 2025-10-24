@@ -1,0 +1,17 @@
+admin
+root
+admin0
+admin123
+root123
+adminabc
+adminabc123
+user
+administrator
+guest
+test
+sys
+system
+123
+sysadmin
+test123
+user123

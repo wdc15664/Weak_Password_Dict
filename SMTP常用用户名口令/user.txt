@@ -1,0 +1,4 @@
+test@example.com
+root@example.com
+test@wr.com
+imap@test.com

@@ -1,0 +1,9 @@
+highgo
+root
+mysql
+test
+user
+guest
+admin
+administrator
+anon@ymous.tw
